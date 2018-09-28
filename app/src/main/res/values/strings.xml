@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAg0X0JeUGHvQMDRt3TWpUJelYRi_O-b98</string> -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="engine">Engine</string>
+    <string name="address">Address</string>
+    <string name="vin">VIN</string>
+    <string name="fuel">Fuel</string>
+    <string name="vehicle_condition">Vehicle condition</string>
+    <string name="interior">Interior</string>
+    <string name="exterior">Exterior</string>
+    <string name="context_back_button">Back Button</string>
+    <string name="cars_map">Cars Map</string>
+</resources>
